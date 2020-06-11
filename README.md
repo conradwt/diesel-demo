@@ -24,7 +24,7 @@ See Diesel Reference.
 
 ## Production Setup
 
-Ready to run in production? Please [check our deployment guides](https://guides.rubyonrails.org/configuring.html).
+Ready to run in production? Please [check our deployment guides](https://www.rust-lang.org/tools).
 
 ## Rust References
 
@@ -37,13 +37,13 @@ Ready to run in production? Please [check our deployment guides](https://guides.
 
 ## Support
 
-Bug reports and feature requests can be filed with the rest for the Phoenix project here:
+Bug reports and feature requests can be filed with the rest for the Diesel Demo project here:
 
 - [File Bug Reports and Features](https://github.com/conradwt/diesel_demo/issues)
 
 ## License
 
-Zero to GraphQL Using Rails is released under the [MIT license](./LICENSE.md).
+Diesel Demo is released under the [MIT license](./LICENSE.md).
 
 ## Copyright
 
