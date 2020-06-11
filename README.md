@@ -1,6 +1,6 @@
 # Diesel Demo
 
-The purpose of this example is to get up to speed with 
+The purpose of this example is to get up to speed with Diesel using the Rust programming language.
 
 ## Getting Started
 
