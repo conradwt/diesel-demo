@@ -10,6 +10,30 @@ The purpose of this example is to get up to speed with Diesel using the Rust pro
 
 - Rust 1.44.0 or higher
 
+## Navigate to the application
+
+```
+$ cd /path/to/diesel-demo
+```
+
+## Creating Post
+
+```zsh
+cargo run --bin write_post
+```
+
+## Showing Post(s)
+
+```zsh
+cargo run --bin show_posts
+```
+
+## Delete Post
+
+```zsh
+cargo run --bin delete_post title
+```
+
 ## Communication
 
 - If you **need help**, use [Stack Overflow](http://stackoverflow.com/questions/tagged/rust). (Tag 'rust')
@@ -39,7 +63,7 @@ Ready to run in production? Please [check our deployment guides](https://www.rus
 
 Bug reports and feature requests can be filed with the rest for the Diesel Demo project here:
 
-- [File Bug Reports and Features](https://github.com/conradwt/diesel_demo/issues)
+- [File Bug Reports and Features](https://github.com/conradwt/diesel-demo/issues)
 
 ## License
 
